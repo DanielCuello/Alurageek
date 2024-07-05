@@ -1,0 +1,25 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "Challenge alura",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCuello/Alurageek"
+  },
+  "keywords": [
+    "ecommerce",
+    "CRUD",
+    "alura",
+    "latam"
+  ],
+  "author": "SofiDev",
+  "license": "MIT",
+   "homepage": "https://danielcuello-portfolio.netlify.app/",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.5"
+  }
+}
